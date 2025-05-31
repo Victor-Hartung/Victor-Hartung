@@ -6,7 +6,7 @@ Tenho 20 anos
 Estudo Ciência da Computação na Universidade Paulista (Araraquara)  
 
 ## Contato  
-Fique à vontade para me contatar victorhartungcontato@gmail.com  
+Fique à vontade para me contatar victoralexhartung@gmail.com  
 
 <!--
 **Victor-Hartung/Victor-Hartung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
